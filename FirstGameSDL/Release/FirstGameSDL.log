@@ -1,0 +1,11 @@
+﻿  bualiem.cpp
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(14,7): error C2365: 'bua_liem_::is_eat_': redefinition; previous definition was 'data member'
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(8): message : see declaration of 'bua_liem_::is_eat_'
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(14,19): error C2059: syntax error: 'return'
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(14,33): error C2238: unexpected token(s) preceding ';'
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(15,2): error C2628: 'bua_liem_' followed by 'void' is illegal (did you forget a ';'?)
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(15,37): error C2065: 'is_eat_': undeclared identifier
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(17,35): warning C4305: 'return': truncation from 'bool (__cdecl *)(void)' to 'bool'
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(18,44): error C2659: '=': function as left operand
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(20,1): error C2059: syntax error: '}'
+C:\Users\DELL\Desktop\FirstGameSDL\FirstGameSDL\bualiem.h(20,1): error C2143: syntax error: missing ';' before '}'
